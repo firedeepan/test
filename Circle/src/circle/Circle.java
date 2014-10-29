@@ -18,6 +18,7 @@ public class Circle {
     public static void main(String[] args) {
         circle1 my = new circle1(10);
         System.out.println("Area : "+my.getArea());
+        System.out.println("Branch 2");
     }
     
 }
