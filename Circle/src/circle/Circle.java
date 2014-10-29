@@ -16,7 +16,8 @@ public class Circle {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        circle1 my = new circle1(10);
+        System.out.println("Area : "+my.getArea());
     }
     
 }

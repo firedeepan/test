@@ -12,7 +12,7 @@ package circle;
  */
 public class circle1 {
     
-    private double radius;
+    private double radius=10;
     private final double pi=Math.PI;
 
     public double getRadius() {
